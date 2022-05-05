@@ -1,0 +1,15 @@
+{
+  "name": "crmgraphlcurso",
+  "version": "1.0.0",
+  "description": "Curso GraphQl",
+  "main": "index.js",
+  "scripts": {
+    "star": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [
+    "Git"
+  ],
+  "author": "Javier de Castro",
+  "license": "ISC"
+}

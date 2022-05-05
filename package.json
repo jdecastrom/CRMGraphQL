@@ -1,0 +1,27 @@
+{
+  "name": "crmgraphlcurso",
+  "version": "1.0.0",
+  "description": "Curso GraphQl",
+  "main": "index.js",
+  "scripts": {
+    "star": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [
+    "Git"
+  ],
+  "author": "Javier de Castro",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.4",
+    "apollo-server-express": "^3.6.4",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.7",
+    "dotenv": "^8.6.0",
+    "express-graphiql-middleware": "^1.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.14",
+    "nodemon": "^2.0.15",
+    "plugins": "^0.4.2"
+  }
+}
